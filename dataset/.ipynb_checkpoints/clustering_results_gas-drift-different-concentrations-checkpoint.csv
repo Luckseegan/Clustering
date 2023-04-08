@@ -1,0 +1,129 @@
+Algorithm,Parameters,F1 Score,Adjusted Rand Score,Silhouette Score,Execution Time,clustering_results_gas-drift-different-concentrations
+KMeans,"{'init': 'k-means++', 'max_iter': 100, 'n_clusters': 3}",0.0540973610817743,0.0335976055123482,0.4257601722029226,2.8264052867889404,clustering_results_gas-drift-different-concentrations
+KMeans,"{'init': 'k-means++', 'max_iter': 100, 'n_clusters': 4}",0.1221730976805356,0.060306234702838,0.3134366833650583,2.3112924098968506,clustering_results_gas-drift-different-concentrations
+KMeans,"{'init': 'k-means++', 'max_iter': 100, 'n_clusters': 5}",0.2130425774772162,0.0800076566110196,0.3389975940875371,3.4620561599731445,clustering_results_gas-drift-different-concentrations
+KMeans,"{'init': 'k-means++', 'max_iter': 100, 'n_clusters': 6}",0.0991397465639641,0.0600972772475349,0.280078103033485,5.479805946350098,clustering_results_gas-drift-different-concentrations
+KMeans,"{'init': 'k-means++', 'max_iter': 100, 'n_clusters': 7}",0.0641594892099209,0.0676024979790637,0.2896932700165496,3.792276382446289,clustering_results_gas-drift-different-concentrations
+KMeans,"{'init': 'k-means++', 'max_iter': 300, 'n_clusters': 3}",0.0540973610817743,0.0335976055123482,0.4257601722029226,2.9977259635925293,clustering_results_gas-drift-different-concentrations
+KMeans,"{'init': 'k-means++', 'max_iter': 300, 'n_clusters': 4}",0.0908349612022109,0.0495575694953587,0.3139106009600254,2.2358286380767822,clustering_results_gas-drift-different-concentrations
+KMeans,"{'init': 'k-means++', 'max_iter': 300, 'n_clusters': 5}",0.1230981355694736,0.0802443828338236,0.3388770700597808,4.656995058059692,clustering_results_gas-drift-different-concentrations
+KMeans,"{'init': 'k-means++', 'max_iter': 300, 'n_clusters': 6}",0.2094567145031497,0.0600972772475349,0.280078103033485,5.213085412979126,clustering_results_gas-drift-different-concentrations
+KMeans,"{'init': 'k-means++', 'max_iter': 300, 'n_clusters': 7}",0.1911268884809764,0.0555537194425779,0.2870130628493036,6.7251410484313965,clustering_results_gas-drift-different-concentrations
+KMeans,"{'init': 'k-means++', 'max_iter': 500, 'n_clusters': 3}",0.0835285446039293,0.0335976055123482,0.4257601722029226,1.967557907104492,clustering_results_gas-drift-different-concentrations
+KMeans,"{'init': 'k-means++', 'max_iter': 500, 'n_clusters': 4}",0.109629162760793,0.0494813027003372,0.3144518102765599,1.936245441436768,clustering_results_gas-drift-different-concentrations
+KMeans,"{'init': 'k-means++', 'max_iter': 500, 'n_clusters': 5}",0.1359541082505909,0.080153405853842,0.3389030477571527,3.950406551361084,clustering_results_gas-drift-different-concentrations
+KMeans,"{'init': 'k-means++', 'max_iter': 500, 'n_clusters': 6}",0.1361151801433603,0.0600972772475349,0.280078103033485,4.464987277984619,clustering_results_gas-drift-different-concentrations
+KMeans,"{'init': 'k-means++', 'max_iter': 500, 'n_clusters': 7}",0.2408928775403498,0.0676024979790637,0.2896932700165496,3.604636192321777,clustering_results_gas-drift-different-concentrations
+KMeans,"{'init': 'random', 'max_iter': 100, 'n_clusters': 3}",0.0540734852699694,0.0337243054845848,0.4255418904234643,3.2391719818115234,clustering_results_gas-drift-different-concentrations
+KMeans,"{'init': 'random', 'max_iter': 100, 'n_clusters': 4}",0.1402674701323315,0.050491620099125,0.3104423268872302,2.303658962249756,clustering_results_gas-drift-different-concentrations
+KMeans,"{'init': 'random', 'max_iter': 100, 'n_clusters': 5}",0.1061621972835634,0.0802443828338236,0.3388770700597808,3.136143684387207,clustering_results_gas-drift-different-concentrations
+KMeans,"{'init': 'random', 'max_iter': 100, 'n_clusters': 6}",0.1541060479042236,0.0600972772475349,0.280078103033485,5.932538032531738,clustering_results_gas-drift-different-concentrations
+KMeans,"{'init': 'random', 'max_iter': 100, 'n_clusters': 7}",0.1113132082719502,0.0959155042621984,0.2804588707338244,4.479820251464844,clustering_results_gas-drift-different-concentrations
+KMeans,"{'init': 'random', 'max_iter': 300, 'n_clusters': 3}",0.1148981215484455,0.0335976055123482,0.4257601722029226,2.926886796951294,clustering_results_gas-drift-different-concentrations
+KMeans,"{'init': 'random', 'max_iter': 300, 'n_clusters': 4}",0.1160949397902441,0.0494813027003372,0.3144518102765599,3.657209634780884,clustering_results_gas-drift-different-concentrations
+KMeans,"{'init': 'random', 'max_iter': 300, 'n_clusters': 5}",0.1240662684332467,0.0799788281762417,0.3378969514449085,3.869076728820801,clustering_results_gas-drift-different-concentrations
+KMeans,"{'init': 'random', 'max_iter': 300, 'n_clusters': 6}",0.2669826094799455,0.0600972772475349,0.280078103033485,5.036850929260254,clustering_results_gas-drift-different-concentrations
+KMeans,"{'init': 'random', 'max_iter': 300, 'n_clusters': 7}",0.127924893800608,0.0959155042621984,0.2804588707338244,5.769360542297363,clustering_results_gas-drift-different-concentrations
+KMeans,"{'init': 'random', 'max_iter': 500, 'n_clusters': 3}",0.0835285446039293,0.0335976055123482,0.4257601722029226,2.4196584224700928,clustering_results_gas-drift-different-concentrations
+KMeans,"{'init': 'random', 'max_iter': 500, 'n_clusters': 4}",0.092767771304846,0.060306234702838,0.3134366833650583,3.851966857910156,clustering_results_gas-drift-different-concentrations
+KMeans,"{'init': 'random', 'max_iter': 500, 'n_clusters': 5}",0.0690601642451636,0.0802443828338236,0.3388770700597808,3.307851076126098,clustering_results_gas-drift-different-concentrations
+KMeans,"{'init': 'random', 'max_iter': 500, 'n_clusters': 6}",0.1991069972730812,0.0600972772475349,0.280078103033485,3.295497417449951,clustering_results_gas-drift-different-concentrations
+KMeans,"{'init': 'random', 'max_iter': 500, 'n_clusters': 7}",0.175678354550131,0.0959243289036256,0.2805222731137594,5.475450277328491,clustering_results_gas-drift-different-concentrations
+DBSCAN,"{'eps': 0.5, 'min_samples': 5}",0.0589902355017482,-0.0039049976655982,0.035514997849663,16.027379989624023,clustering_results_gas-drift-different-concentrations
+DBSCAN,"{'eps': 0.5, 'min_samples': 7}",0.0581766803120861,-0.0040205484130882,0.0368387417578105,15.967067956924438,clustering_results_gas-drift-different-concentrations
+DBSCAN,"{'eps': 0.5, 'min_samples': 9}",0.0582278310703835,-0.0038715445616421,0.0516562368196632,15.467207193374634,clustering_results_gas-drift-different-concentrations
+DBSCAN,"{'eps': 0.5, 'min_samples': 12}",0.0606644801594911,-0.0038916518865813,0.1267092177941286,16.398029565811157,clustering_results_gas-drift-different-concentrations
+DBSCAN,"{'eps': 1.0, 'min_samples': 5}",0.057915376083764,-6.990242225761221e-05,0.1849314825402516,66.60750985145569,clustering_results_gas-drift-different-concentrations
+DBSCAN,"{'eps': 1.0, 'min_samples': 7}",0.0571976952084386,-6.917392273143662e-05,0.4986922953594356,43.26839375495911,clustering_results_gas-drift-different-concentrations
+DBSCAN,"{'eps': 1.0, 'min_samples': 9}",0.0571822082641118,-8.375750377400192e-05,0.4948597363646611,32.42061376571655,clustering_results_gas-drift-different-concentrations
+DBSCAN,"{'eps': 1.0, 'min_samples': 12}",0.0571822082641118,-8.375750377400192e-05,0.4948597363646611,45.1401047706604,clustering_results_gas-drift-different-concentrations
+DBSCAN,"{'eps': 1.5, 'min_samples': 5}",0.0573414228774934,-7.738493766187533e-05,0.623811242901894,59.37349104881287,clustering_results_gas-drift-different-concentrations
+DBSCAN,"{'eps': 1.5, 'min_samples': 7}",0.0573414228774934,-7.738493766187533e-05,0.623811242901894,98.5813717842102,clustering_results_gas-drift-different-concentrations
+DBSCAN,"{'eps': 1.5, 'min_samples': 9}",0.0573414228774934,-7.738493766187533e-05,0.623811242901894,56.610795974731445,clustering_results_gas-drift-different-concentrations
+DBSCAN,"{'eps': 1.5, 'min_samples': 12}",0.0573414228774934,-7.738493766187533e-05,0.623811242901894,29.37283587455749,clustering_results_gas-drift-different-concentrations
+GaussianMixture,"{'covariance_type': 'full', 'max_iter': 100, 'n_components': 2}",0.07580049865901566,0.0026188324872790333,0.35534087255494723,24.472421169281006,clustering_results_gas-drift-different-concentrations
+GaussianMixture,"{'covariance_type': 'full', 'max_iter': 100, 'n_components': 3}",0.13948892178206854,0.01623990139714819,0.2824527730612098,26.425812005996704,clustering_results_gas-drift-different-concentrations
+GaussianMixture,"{'covariance_type': 'full', 'max_iter': 100, 'n_components': 4}",0.1462043845212633,0.14459749223742915,0.22874010104861156,37.57620573043823,clustering_results_gas-drift-different-concentrations
+GaussianMixture,"{'covariance_type': 'full', 'max_iter': 300, 'n_components': 2}",0.07580049865901566,0.0026188324872790333,0.35534087255494723,28.29917049407959,clustering_results_gas-drift-different-concentrations
+GaussianMixture,"{'covariance_type': 'full', 'max_iter': 300, 'n_components': 3}",0.09404638238617558,0.013675217744547384,0.26695657544988416,19.00684118270874,clustering_results_gas-drift-different-concentrations
+GaussianMixture,"{'covariance_type': 'full', 'max_iter': 300, 'n_components': 4}",0.1570287571855782,0.123242410890462,0.24007700672990978,50.8854775428772,clustering_results_gas-drift-different-concentrations
+GaussianMixture,"{'covariance_type': 'full', 'max_iter': 500, 'n_components': 2}",0.10394586064149808,0.002612925647570778,0.355400085882909,26.303513765335083,clustering_results_gas-drift-different-concentrations
+GaussianMixture,"{'covariance_type': 'full', 'max_iter': 500, 'n_components': 3}",0.13340624393043982,0.01366693647521877,0.26693060536897234,18.52224040031433,clustering_results_gas-drift-different-concentrations
+GaussianMixture,"{'covariance_type': 'full', 'max_iter': 500, 'n_components': 4}",0.18484908842425626,0.14459749223742915,0.22874010104861156,38.27831268310547,clustering_results_gas-drift-different-concentrations
+GaussianMixture,"{'covariance_type': 'tied', 'max_iter': 100, 'n_components': 2}",0.10550071885623986,0.005359646165826059,0.4307761354378025,19.844020128250122,clustering_results_gas-drift-different-concentrations
+GaussianMixture,"{'covariance_type': 'tied', 'max_iter': 100, 'n_components': 3}",0.11714868299039641,0.026916107236398958,0.3459736419815883,19.59112048149109,clustering_results_gas-drift-different-concentrations
+GaussianMixture,"{'covariance_type': 'tied', 'max_iter': 100, 'n_components': 4}",0.12786336291270817,0.08107300191612743,0.23555332434001192,33.70708966255188,clustering_results_gas-drift-different-concentrations
+GaussianMixture,"{'covariance_type': 'tied', 'max_iter': 300, 'n_components': 2}",0.13171323232136417,0.005312493456498189,0.43104126271629134,16.044604301452637,clustering_results_gas-drift-different-concentrations
+GaussianMixture,"{'covariance_type': 'tied', 'max_iter': 300, 'n_components': 3}",0.09176232147632417,0.04090422788502894,0.25194164304960925,23.51351547241211,clustering_results_gas-drift-different-concentrations
+GaussianMixture,"{'covariance_type': 'tied', 'max_iter': 300, 'n_components': 4}",0.04569735162052786,0.07955435558420097,0.2970608685995236,23.736608266830444,clustering_results_gas-drift-different-concentrations
+GaussianMixture,"{'covariance_type': 'tied', 'max_iter': 500, 'n_components': 2}",0.1055063035262263,0.005356754694915975,0.4308282973093311,14.930437326431274,clustering_results_gas-drift-different-concentrations
+GaussianMixture,"{'covariance_type': 'tied', 'max_iter': 500, 'n_components': 3}",0.14673419588494663,0.04107967188573449,0.25132834671446885,26.771775245666504,clustering_results_gas-drift-different-concentrations
+GaussianMixture,"{'covariance_type': 'tied', 'max_iter': 500, 'n_components': 4}",0.03370162403901937,0.07955435558420097,0.2970608685995236,23.45957589149475,clustering_results_gas-drift-different-concentrations
+GaussianMixture,"{'covariance_type': 'diag', 'max_iter': 100, 'n_components': 2}",0.11788552208178397,0.04838994861000858,0.41851625269308906,3.4245851039886475,clustering_results_gas-drift-different-concentrations
+GaussianMixture,"{'covariance_type': 'diag', 'max_iter': 100, 'n_components': 3}",0.1085842441857245,0.05277798567025137,0.31842256409450326,7.66594386100769,clustering_results_gas-drift-different-concentrations
+GaussianMixture,"{'covariance_type': 'diag', 'max_iter': 100, 'n_components': 4}",0.06709424254169122,0.09130090225902106,0.2892471976196326,9.745246410369873,clustering_results_gas-drift-different-concentrations
+GaussianMixture,"{'covariance_type': 'diag', 'max_iter': 300, 'n_components': 2}",0.11788552208178397,0.04838994861000858,0.41851625269308906,2.4992833137512207,clustering_results_gas-drift-different-concentrations
+GaussianMixture,"{'covariance_type': 'diag', 'max_iter': 300, 'n_components': 3}",0.10045111947750876,0.05275347954878788,0.31849504059072337,6.054539918899536,clustering_results_gas-drift-different-concentrations
+GaussianMixture,"{'covariance_type': 'diag', 'max_iter': 300, 'n_components': 4}",0.056554492304791294,0.09081444050463824,0.27991731983515533,8.5101478099823,clustering_results_gas-drift-different-concentrations
+GaussianMixture,"{'covariance_type': 'diag', 'max_iter': 500, 'n_components': 2}",0.11348872976354468,0.04838994861000858,0.41851625269308906,2.517642021179199,clustering_results_gas-drift-different-concentrations
+GaussianMixture,"{'covariance_type': 'diag', 'max_iter': 500, 'n_components': 3}",0.1052039342893128,0.06014167945131244,0.28863209068417484,4.728189945220947,clustering_results_gas-drift-different-concentrations
+GaussianMixture,"{'covariance_type': 'diag', 'max_iter': 500, 'n_components': 4}",0.11424426237178739,0.09076189113279103,0.27996334306717974,9.85150408744812,clustering_results_gas-drift-different-concentrations
+GaussianMixture,"{'covariance_type': 'spherical', 'max_iter': 100, 'n_components': 2}",0.1003405710349289,0.07516678662416747,0.36597016763494894,3.3212969303131104,clustering_results_gas-drift-different-concentrations
+GaussianMixture,"{'covariance_type': 'spherical', 'max_iter': 100, 'n_components': 3}",0.10586761137810678,0.050097664638824216,0.23928733231257324,6.107558012008667,clustering_results_gas-drift-different-concentrations
+GaussianMixture,"{'covariance_type': 'spherical', 'max_iter': 100, 'n_components': 4}",0.13952704490942608,0.06689225785490699,0.18193119071865918,8.75321364402771,clustering_results_gas-drift-different-concentrations
+GaussianMixture,"{'covariance_type': 'spherical', 'max_iter': 300, 'n_components': 2}",0.12149799672898837,0.07516678662416747,0.36597016763494894,3.6819326877593994,clustering_results_gas-drift-different-concentrations
+GaussianMixture,"{'covariance_type': 'spherical', 'max_iter': 300, 'n_components': 3}",0.09605964305384504,0.050097664638824216,0.23928733231257324,7.364868879318237,clustering_results_gas-drift-different-concentrations
+GaussianMixture,"{'covariance_type': 'spherical', 'max_iter': 300, 'n_components': 4}",0.17704325040327515,0.06689225785490699,0.18193119071865918,8.385955333709717,clustering_results_gas-drift-different-concentrations
+GaussianMixture,"{'covariance_type': 'spherical', 'max_iter': 500, 'n_components': 2}",0.12149799672898837,0.07516678662416747,0.36597016763494894,3.898397922515869,clustering_results_gas-drift-different-concentrations
+GaussianMixture,"{'covariance_type': 'spherical', 'max_iter': 500, 'n_components': 3}",0.10586761137810678,0.050097664638824216,0.23928733231257324,7.818985462188721,clustering_results_gas-drift-different-concentrations
+GaussianMixture,"{'covariance_type': 'spherical', 'max_iter': 500, 'n_components': 4}",0.1346528658662766,0.06692459645292763,0.1819536169315357,8.149070501327515,clustering_results_gas-drift-different-concentrations
+Birch,"{'branching_factor': 20, 'n_clusters': 3, 'threshold': 0.1}",0.08217602698986526,0.010445806958755164,0.45770787043615047,4.455398321151733,clustering_results_gas-drift-different-concentrations
+Birch,"{'branching_factor': 20, 'n_clusters': 3, 'threshold': 0.5}",0.059260411420253845,0.009123501883495035,0.413723943651992,1.581674575805664,clustering_results_gas-drift-different-concentrations
+Birch,"{'branching_factor': 20, 'n_clusters': 3, 'threshold': 1.0}",0.05916016037069457,-0.0025630241800745773,0.6083653726986803,1.6847119331359863,clustering_results_gas-drift-different-concentrations
+Birch,"{'branching_factor': 20, 'n_clusters': 4, 'threshold': 0.1}",0.08560356705664408,0.00956954639139189,0.45479481438334596,5.695436239242554,clustering_results_gas-drift-different-concentrations
+Birch,"{'branching_factor': 20, 'n_clusters': 4, 'threshold': 0.5}",0.06579903152477254,0.010453943171189403,0.41909626120853966,2.04852032661438,clustering_results_gas-drift-different-concentrations
+Birch,"{'branching_factor': 20, 'n_clusters': 4, 'threshold': 1.0}",0.07651670662531991,-0.0025679797786265822,0.6082677146361469,1.0092504024505615,clustering_results_gas-drift-different-concentrations
+Birch,"{'branching_factor': 20, 'n_clusters': 5, 'threshold': 0.1}",0.08611501372362346,0.009781741465113288,0.45464828504038574,4.798208713531494,clustering_results_gas-drift-different-concentrations
+Birch,"{'branching_factor': 20, 'n_clusters': 5, 'threshold': 0.5}",0.06068685067373681,0.009768650230609065,0.4185581917946582,1.8994817733764648,clustering_results_gas-drift-different-concentrations
+Birch,"{'branching_factor': 20, 'n_clusters': 5, 'threshold': 1.0}",0.08069202448152897,-0.0028303708530198566,0.5557097960606416,0.9182288646697998,clustering_results_gas-drift-different-concentrations
+Birch,"{'branching_factor': 20, 'n_clusters': 6, 'threshold': 0.1}",0.12875435857706907,0.023722573090649342,0.44397187541787664,5.8304784297943115,clustering_results_gas-drift-different-concentrations
+Birch,"{'branching_factor': 20, 'n_clusters': 6, 'threshold': 0.5}",0.05107491454308807,0.012054233814224017,0.384028872011243,1.6674184799194336,clustering_results_gas-drift-different-concentrations
+Birch,"{'branching_factor': 20, 'n_clusters': 6, 'threshold': 1.0}",0.05862773750632634,-0.0028303662647218802,0.5555104575136285,1.4303467273712158,clustering_results_gas-drift-different-concentrations
+Birch,"{'branching_factor': 20, 'n_clusters': 7, 'threshold': 0.1}",0.03111228109983957,0.017265434035791696,0.41299536420610833,4.875239133834839,clustering_results_gas-drift-different-concentrations
+Birch,"{'branching_factor': 20, 'n_clusters': 7, 'threshold': 0.5}",0.16885615492537923,0.012060668434812584,0.38337654510079394,2.094287633895874,clustering_results_gas-drift-different-concentrations
+Birch,"{'branching_factor': 20, 'n_clusters': 7, 'threshold': 1.0}",0.027324809444403835,-0.0028450761085957958,0.544433734397172,0.9632430076599121,clustering_results_gas-drift-different-concentrations
+Birch,"{'branching_factor': 50, 'n_clusters': 3, 'threshold': 0.1}",0.1333589897329103,0.08328646549044015,0.3855914245456167,5.278940200805664,clustering_results_gas-drift-different-concentrations
+Birch,"{'branching_factor': 50, 'n_clusters': 3, 'threshold': 0.5}",0.05829607911854801,-0.0019839044405939145,0.5708904637344607,1.5834012031555176,clustering_results_gas-drift-different-concentrations
+Birch,"{'branching_factor': 50, 'n_clusters': 3, 'threshold': 1.0}",0.05916016037069457,-0.0025630241800745773,0.6083653726986803,1.2973299026489258,clustering_results_gas-drift-different-concentrations
+Birch,"{'branching_factor': 50, 'n_clusters': 4, 'threshold': 0.1}",0.13336229492627405,0.08252772870819143,0.3815256103475751,4.119049787521362,clustering_results_gas-drift-different-concentrations
+Birch,"{'branching_factor': 50, 'n_clusters': 4, 'threshold': 0.5}",0.10942395756801622,-0.004470658345294933,0.45088708474953526,1.8124432563781738,clustering_results_gas-drift-different-concentrations
+Birch,"{'branching_factor': 50, 'n_clusters': 4, 'threshold': 1.0}",0.07651670662531991,-0.0025679797786265822,0.6082677146361469,0.96724534034729,clustering_results_gas-drift-different-concentrations
+Birch,"{'branching_factor': 50, 'n_clusters': 5, 'threshold': 0.1}",0.11013440141534533,0.08218634416870534,0.38075106868662656,4.36711859703064,clustering_results_gas-drift-different-concentrations
+Birch,"{'branching_factor': 50, 'n_clusters': 5, 'threshold': 0.5}",0.11288000430062192,-0.004683440479668783,0.44749963283934086,2.3746047019958496,clustering_results_gas-drift-different-concentrations
+Birch,"{'branching_factor': 50, 'n_clusters': 5, 'threshold': 1.0}",0.08069202448152897,-0.0028303708530198566,0.5557097960606416,1.0312633514404297,clustering_results_gas-drift-different-concentrations
+Birch,"{'branching_factor': 50, 'n_clusters': 6, 'threshold': 0.1}",0.14488004255338538,0.06247709818869247,0.3253608316691514,4.376098871231079,clustering_results_gas-drift-different-concentrations
+Birch,"{'branching_factor': 50, 'n_clusters': 6, 'threshold': 0.5}",0.07664907321787662,-0.004559525574805091,0.41194222152941007,1.6904239654541016,clustering_results_gas-drift-different-concentrations
+Birch,"{'branching_factor': 50, 'n_clusters': 6, 'threshold': 1.0}",0.05862773750632634,-0.0028303662647218802,0.5555104575136285,1.00825834274292,clustering_results_gas-drift-different-concentrations
+Birch,"{'branching_factor': 50, 'n_clusters': 7, 'threshold': 0.1}",0.13570407058198053,0.0626198601153523,0.32843776160698346,4.38510799407959,clustering_results_gas-drift-different-concentrations
+Birch,"{'branching_factor': 50, 'n_clusters': 7, 'threshold': 0.5}",0.09328228073742699,-0.004567791894377979,0.41166092211218036,1.7644422054290771,clustering_results_gas-drift-different-concentrations
+Birch,"{'branching_factor': 50, 'n_clusters': 7, 'threshold': 1.0}",0.027324809444403835,-0.0028450761085957958,0.544433734397172,2.841256856918335,clustering_results_gas-drift-different-concentrations
+Birch,"{'branching_factor': 100, 'n_clusters': 3, 'threshold': 0.1}",0.07134517550171182,0.018128385935069425,0.44938554163253575,7.660706996917725,clustering_results_gas-drift-different-concentrations
+Birch,"{'branching_factor': 100, 'n_clusters': 3, 'threshold': 0.5}",0.058396373309092454,-0.0021217158519735344,0.5063994256209863,1.334338903427124,clustering_results_gas-drift-different-concentrations
+Birch,"{'branching_factor': 100, 'n_clusters': 3, 'threshold': 1.0}",0.05916016037069457,-0.0025630241800745773,0.6083653726986803,0.9742438793182373,clustering_results_gas-drift-different-concentrations
+Birch,"{'branching_factor': 100, 'n_clusters': 4, 'threshold': 0.1}",0.08249838643513142,0.033130511758644454,0.4399273014835952,4.4691321849823,clustering_results_gas-drift-different-concentrations
+Birch,"{'branching_factor': 100, 'n_clusters': 4, 'threshold': 0.5}",0.06472649773540781,-0.0019336688917418264,0.4809701640886148,1.1762936115264893,clustering_results_gas-drift-different-concentrations
+Birch,"{'branching_factor': 100, 'n_clusters': 4, 'threshold': 1.0}",0.07651670662531991,-0.0025679797786265822,0.6082677146361469,1.8074469566345215,clustering_results_gas-drift-different-concentrations
+Birch,"{'branching_factor': 100, 'n_clusters': 5, 'threshold': 0.1}",0.08342269130142058,0.03413969044318849,0.44295292093094935,3.9489996433258057,clustering_results_gas-drift-different-concentrations
+Birch,"{'branching_factor': 100, 'n_clusters': 5, 'threshold': 0.5}",0.10386305242633917,0.02223190445875512,0.45503200233446,1.8914856910705566,clustering_results_gas-drift-different-concentrations
+Birch,"{'branching_factor': 100, 'n_clusters': 5, 'threshold': 1.0}",0.08069202448152897,-0.0028303708530198566,0.5557097960606416,0.9782447814941406,clustering_results_gas-drift-different-concentrations
+Birch,"{'branching_factor': 100, 'n_clusters': 6, 'threshold': 0.1}",0.055333196633854165,0.03286996272933864,0.4422966698928542,4.464132070541382,clustering_results_gas-drift-different-concentrations
+Birch,"{'branching_factor': 100, 'n_clusters': 6, 'threshold': 0.5}",0.10377973759543077,0.022183682873736326,0.45497986303302546,1.119283676147461,clustering_results_gas-drift-different-concentrations
+Birch,"{'branching_factor': 100, 'n_clusters': 6, 'threshold': 1.0}",0.05862773750632634,-0.0028303662647218802,0.5555104575136285,1.4443676471710205,clustering_results_gas-drift-different-concentrations
+Birch,"{'branching_factor': 100, 'n_clusters': 7, 'threshold': 0.1}",0.08421972086204957,0.08146976556361202,0.3389799378365681,5.0728349685668945,clustering_results_gas-drift-different-concentrations
+Birch,"{'branching_factor': 100, 'n_clusters': 7, 'threshold': 0.5}",0.12170604912944687,0.021603158649287992,0.4524632903402062,2.099534511566162,clustering_results_gas-drift-different-concentrations
+Birch,"{'branching_factor': 100, 'n_clusters': 7, 'threshold': 1.0}",0.027324809444403835,-0.0028450761085957958,0.544433734397172,1.5003817081451416,clustering_results_gas-drift-different-concentrations
+Ward,"{'affinity': 'euclidean', 'linkage': 'ward', 'n_clusters': 3}",0.12482339243248337,0.013877708216905,0.45677130645335384,94.2068862915039,clustering_results_gas-drift-different-concentrations
+Ward,"{'affinity': 'euclidean', 'linkage': 'ward', 'n_clusters': 4}",0.14824166664000135,0.049407862768052924,0.24670910457295187,97.88526129722595,clustering_results_gas-drift-different-concentrations
+Ward,"{'affinity': 'euclidean', 'linkage': 'ward', 'n_clusters': 5}",0.15849490895233265,0.08323217381599625,0.2692739365328019,89.27814602851868,clustering_results_gas-drift-different-concentrations
+Ward,"{'affinity': 'euclidean', 'linkage': 'ward', 'n_clusters': 6}",0.15449520463768635,0.07060018690396204,0.26569499439115274,88.86154627799988,clustering_results_gas-drift-different-concentrations
+Ward,"{'affinity': 'euclidean', 'linkage': 'ward', 'n_clusters': 7}",0.2799844207949572,0.07607278968254506,0.27085842369853064,91.22393321990967,clustering_results_gas-drift-different-concentrations
