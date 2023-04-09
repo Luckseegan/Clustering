@@ -1,0 +1,11 @@
+Algorithm,Parameters,F1 Score,Adjusted Rand Score,Silhouette Score,Execution Time,dataset
+KMeans,"{'init': 'k-means++', 'max_iter': 300, 'n_clusters': 3}",0.2849879021326008,0.233519574289954,0.5263819039711348,0.2946119308471679,glass
+AgglomerativeClustering,"{'affinity': 'euclidean', 'linkage': 'complete', 'n_clusters': 5}",0.239834106095658,0.2224944690065023,0.4837431535596437,0.0,glass
+DBSCAN,"{'eps': 0.5, 'min_samples': 3}",0.1659217120411756,0.0258911973466842,0.5137188668144061,0.0083034038543701,glass
+OPTICS,"{'min_samples': 7, 'xi': 0.05}",0.2975136329364731,0.0801617847593989,-0.1390309233667998,0.4018535614013672,glass
+GaussianMixture,"{'covariance_type': 'full', 'max_iter': 300, 'n_components': 2}",0.2983061992471402,0.2257540288675455,0.4056643072594533,0.0312540531158447,glass
+MeanShift,"{'bandwidth': 0.5, 'cluster_all': True}",0.2236639815341241,0.2309458909570854,0.4532582125807503,1.6856417655944824,glass
+SpectralClustering,"{'affinity': 'rbf', 'n_clusters': 2, 'n_neighbors': 15}",0.2509716567649528,0.1836949868430259,0.530090416182988,0.2132599353790283,glass
+Birch,"{'branching_factor': 100, 'n_clusters': 4, 'threshold': 0.1}",0.2477507208888725,0.2074146892301053,0.5327972306267138,0.0240070819854736,glass
+AffinityPropagation,"{'damping': 0.5, 'preference': -10}",0.2580628045215819,0.2045112459748327,0.515298030537735,0.301379919052124,glass
+Ward,"{'affinity': 'euclidean', 'linkage': 'ward', 'n_clusters': 3}",0.2198834992338554,0.2196585477089419,0.5267215886799911,0.0156271457672119,glass
