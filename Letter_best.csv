@@ -1,5 +1,0 @@
-Algorithm,Parameters,F1 Score,Adjusted Rand Score,Silhouette Score,Execution Time,dataset
-KMeans,"{'init': 'random', 'max_iter': 100, 'n_clusters': 25}",0.0563700330324049,0.1225686550983554,0.1483771820427004,4.953444719314575,letter
-GaussianMixture,"{'covariance_type': 'tied', 'max_iter': 500, 'n_components': 4}",0.0139683755128501,0.0428518993880538,0.0836710143577257,4.489267110824585,letter
-Birch,"{'branching_factor': 20, 'n_clusters': 25, 'threshold': 0.1}",0.0602255845062155,0.1417539613984913,0.1085028573404012,27.442243337631226,letter
-Ward,"{'affinity': 'euclidean', 'linkage': 'ward', 'n_clusters': 25}",0.0651410788022593,0.143786282779127,0.112373821443267,68.25734376907349,letter
