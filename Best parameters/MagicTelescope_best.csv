@@ -1,0 +1,6 @@
+Algorithm,Parameters,F1 Score,Adjusted Rand Score,Silhouette Score,Execution Time,dataset
+KMeans,"{'init': 'random', 'max_iter': 300, 'n_clusters': 4}",0.4574265126708809,0.124588368255264,0.2971344638532413,2.135746479034424,MagicTelescope
+DBSCAN,"{'eps': 0.5, 'min_samples': 7}",0.5101250813935406,0.0003550563536707,0.5629158144802432,58.94149279594421,MagicTelescope
+GaussianMixture,"{'covariance_type': 'spherical', 'max_iter': 500, 'n_components': 4}",0.5256188309039045,0.1504619127762176,0.2720469545745326,0.4675352573394775,MagicTelescope
+Birch,"{'branching_factor': 20, 'n_clusters': 3, 'threshold': 0.1}",0.6021230641710266,0.2085772823057583,0.3113664523223519,7.989457368850708,MagicTelescope
+Ward,"{'affinity': 'euclidean', 'linkage': 'ward', 'n_clusters': 5}",0.4228469600093484,0.0949541717403047,0.2600321321044455,51.7311224937439,MagicTelescope
