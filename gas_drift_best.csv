@@ -1,9 +1,0 @@
-Algorithm,Parameters,F1 Score,Adjusted Rand Score,Silhouette Score,Execution Time,dataset
-KMeans,"{'init': 'k-means++', 'max_iter': 100, 'n_clusters': 5}",0.2130425774772162,0.0800076566110196,0.3389975940875371,3.4620561599731445,gas-drift-different-concentrations
-AgglomerativeClustering,"{'affinity': 'cosine', 'linkage': 'complete', 'n_clusters': 5}",0.3084387738545084,0.1532329220658783,0.2322496756116999,29.263973712921143,gas-drift-different-concentrations
-DBSCAN,"{'eps': 1.5, 'min_samples': 12}",0.0573414228774934,-7.738493766187533e-05,0.623811242901894,29.37283587455749,gas-drift-different-concentrations
-OPTICS,"{'min_samples': 9, 'xi': 0.05}",0.0102061897205078,0.0193688459093668,-0.0119292736879249,73.32791328430176,gas-drift-different-concentrations
-GaussianMixture,"{'covariance_type': 'spherical', 'max_iter': 300, 'n_components': 2}",0.1214979967289883,0.0751667866241674,0.3659701676349489,3.6819326877594,gas-drift-different-concentrations
-Birch,"{'branching_factor': 50, 'n_clusters': 3, 'threshold': 0.1}",0.1333589897329103,0.0832864654904401,0.3855914245456167,5.278940200805664,gas-drift-different-concentrations
-Ward,"{'affinity': 'euclidean', 'linkage': 'ward', 'n_clusters': 3}",0.1248233924324833,0.013877708216905,0.4567713064533538,94.2068862915039,gas-drift-different-concentrations
-MeanShift,{'bandwidth': 1.5},0.0602847462605722,-0.0040970682699224,0.4823458465461695,431.5997402667999,gas-drift-different-concentrations
