@@ -1,6 +1,0 @@
-Algorithm,Parameters,F1 Score,Adjusted Rand Score,Silhouette Score,Execution Time,dataset
-KMeans,"{'init': 'random', 'max_iter': 300, 'n_clusters': 20}",0.0891898559497512,0.4810754644432147,0.0873595717029502,29.88923454284668,isolet
-GaussianMixture,"{'covariance_type': 'tied', 'max_iter': 300, 'n_components': 5}",0.0223445323824209,0.211194695862248,0.1184059825514874,32.13206219673157,isolet
-Birch,"{'branching_factor': 50, 'n_clusters': 20, 'threshold': 1.0}",0.1065176740339083,0.5095248989835607,0.1015826216060257,48.664040088653564,isolet
-AffinityPropagation,{'damping': 0.7},0.0027083770831366,0.1281631596080207,0.0349648379553507,232.51399207115173,isolet
-Ward,"{'affinity': 'euclidean', 'linkage': 'ward', 'n_clusters': 20}",0.0987038305733505,0.4743364074633464,0.1013152781423059,37.64309430122376,isolet
